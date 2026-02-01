@@ -15,3 +15,4 @@ Analizar información de ventas para identificar patrones de comportamiento y ap
 - Creación de base de datos relacional.
 - Consultas SQL utilizando JOIN, GROUP BY y subconsultas.
 - Análisis de ventas, clientes y categorías.
+
