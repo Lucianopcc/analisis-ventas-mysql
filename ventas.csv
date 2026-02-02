@@ -1,0 +1,11 @@
+id_venta,fecha,mes,categoria,producto,cantidad,monto_total
+1,2024-01-10,Enero,Electrónica,Laptop,1,3200
+2,2024-01-15,Enero,Electrónica,Mouse,2,120
+3,2024-02-05,Febrero,Hogar,Licuadora,1,250
+4,2024-02-20,Febrero,Hogar,Olla,3,180
+5,2024-03-03,Marzo,Electrónica,Teclado,1,150
+6,2024-03-18,Marzo,Ropa,Polera,2,160
+7,2024-04-01,Abril,Ropa,Zapatillas,1,280
+8,2024-04-22,Abril,Electrónica,Monitor,1,900
+9,2024-05-10,Mayo,Hogar,Microondas,1,600
+10,2024-05-25,Mayo,Ropa,Casaca,1,220
