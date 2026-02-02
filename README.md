@@ -1,18 +1,15 @@
-# Análisis de Datos con MySQL
+# Análisis de Ventas – SQL, Power BI y Python
 
-Proyecto académico orientado al análisis de ventas de una empresa, utilizando MySQL para la consulta y análisis de datos.
+Proyecto académico donde se analiza información de ventas de una empresa .
 
-## Objetivo
-Analizar información de ventas para identificar patrones de comportamiento y apoyar la toma de decisiones.
+## Herramientas utilizadas
+- MySQL (consultas SQL)
+- Power BI (dashboards)
+- Python (pandas, matplotlib)
 
-## Herramientas empleadas
-- MySQL
-- SQL
-- Excel
-- Power BI
+## Análisis realizado
+- Ventas por mes
+- Ventas por categoría
+- Validación de calidad de datos
 
-## Actividades realizadas
-- Creación de base de datos relacional.
-- Consultas SQL utilizando JOIN, GROUP BY y subconsultas.
-- Análisis de ventas, clientes y categorías.
-
+Este proyecto demuestra conocimientos intermedios en análisis de datos orientado a roles de practicante.
